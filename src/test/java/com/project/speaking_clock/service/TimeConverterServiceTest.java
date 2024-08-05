@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import com.project.speaking_clock.exception.InvalidTimeFormatException;
-import com.project.speaking_clock.sevice.serviceimpl.TimeConverterServiceImpl;
+import com.project.speaking_clock.service.serviceimpl.TimeConverterServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;

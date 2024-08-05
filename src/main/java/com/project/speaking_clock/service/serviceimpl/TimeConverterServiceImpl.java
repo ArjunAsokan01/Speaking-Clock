@@ -1,7 +1,7 @@
-package com.project.speaking_clock.sevice.serviceimpl;
+package com.project.speaking_clock.service.serviceimpl;
 
 import com.project.speaking_clock.exception.InvalidTimeFormatException;
-import com.project.speaking_clock.sevice.TimeConverterService;
+import com.project.speaking_clock.service.TimeConverterService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
 package com.project.speaking_clock.controller;
 
 import com.project.speaking_clock.exception.InvalidTimeFormatException;
-import com.project.speaking_clock.sevice.TimeConverterService;
+import com.project.speaking_clock.service.TimeConverterService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
